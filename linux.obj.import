@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cuyumuig5vmo"
+path="res://.godot/imported/linux.obj-875b7cef0f3c3886a32f42d8bc8a9d3d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/linux.obj-875b7cef0f3c3886a32f42d8bc8a9d3d.mesh"]
+
+source_file="res://linux.obj"
+dest_files=["res://.godot/imported/linux.obj-875b7cef0f3c3886a32f42d8bc8a9d3d.mesh", "res://.godot/imported/linux.obj-875b7cef0f3c3886a32f42d8bc8a9d3d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

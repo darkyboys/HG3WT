@@ -1,0 +1,14 @@
+[gd_resource type="Environment" load_steps=3 format=3 uid="uid://cqaedlyjesha7"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_q7qhu"]
+
+[sub_resource type="Sky" id="Sky_o84aw"]
+sky_material = SubResource("ProceduralSkyMaterial_q7qhu")
+
+[resource]
+background_mode = 2
+sky = SubResource("Sky_o84aw")
+ssr_enabled = true
+ssao_enabled = true
+ssil_enabled = true
+volumetric_fog_enabled = true
